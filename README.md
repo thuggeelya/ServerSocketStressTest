@@ -6,6 +6,12 @@ The product range is predefined. For the production of each product, a certain s
 
 The supplier contacts the firm with an offer to supply some source material. If the company has a sufficient amount, then a purchase takes place, otherwise the supplier is refused. At the very beginning of the work, the company has a certain amount in its account. At any given time, the firm must be able to provide a report on the status of its account, statistics on order processing and the quantity of materials in the warehouse.
 
+## Manually implement a custom lib "Help" on the following path - thuggeelya\ServerSocketStressTest\bin\out\production\Help\Help.jar
+
+### Run the Server (1), Client and Shipper (2) classes in parallel.
+
+___________________________________________________________________
+
 Git: thuggeelya
 
 E-mail: ilya-fdmdh@mail.ru
