@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-lang-2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ClientServerSocketJars/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ClientServerSocketJars/guava-21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ClientServerSocketJars/opencsv-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
